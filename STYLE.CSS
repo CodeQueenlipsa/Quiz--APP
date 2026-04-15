@@ -1,0 +1,12 @@
+.option {
+  background: #444;
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.option:hover {
+  background: #666;
+}
